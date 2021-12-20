@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Docker 정리](README.md)
 * [WSL](wsl.md)
 * [Windows 에서 Docker 설치](windows-docker.md)
 * [Windows에서 Docker 설치(2)](windows-docker-2.md)
